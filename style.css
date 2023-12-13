@@ -1,0 +1,61 @@
+#main {
+    margin: 0 auto;
+    margin-top: 20%;
+    display: block;
+    width: 688px;
+    height: 115px;
+}
+
+#number {
+    border: black 10px solid;
+    border-radius: 10px;
+    display: block;
+    font-size: 100px;
+    font-family: 'Courier New';
+    font-weight: bolder;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    float: left;
+}
+
+#add {
+    display: block;
+    height: 100px;
+    width: 150px;
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: 'Courier New';
+    border: black 10px solid;
+    border-radius: 10px;
+    float: left;
+    margin-left: -10px;
+    color: black;
+}
+
+#score {
+    display: block;
+    height: 100px;
+    width: 150px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Courier New';
+    border: black 0 solid;
+    margin: 0 auto;
+    color: black;
+    float: left;
+
+}
+
+#score-text {
+    display: block;
+    height: 100px;
+    width: 175px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Courier New';
+    margin: 0 auto;
+    color: black;
+    float: left;
+
+}
